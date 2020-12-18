@@ -1,0 +1,17 @@
+{
+  "name": "hospital-api",
+  "version": "1.0.0",
+  "description": "API for Doctors of a hospital which has been allocated by the government for testing quarantine as wellbeing of COVID-19 patients.Subittted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhilesh Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.7"
+  }
+}
